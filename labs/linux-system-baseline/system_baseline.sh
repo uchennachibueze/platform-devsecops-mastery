@@ -1,4 +1,11 @@
 #! /usr/bin
-echo cpuinfo
-echo hostname
-echo user
+uname
+hostname
+user
+top
+top
+top
+top
+top
+ifconfig
+ifconfig
